@@ -1,3 +1,3 @@
 # ProyectodePyglet
 
-Aquí se realizará el proyecto de Pyglet
+Proyectos implementando la librería Pyglet de Python
